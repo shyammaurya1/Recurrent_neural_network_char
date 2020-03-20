@@ -3,7 +3,7 @@
 
 * numpy
 
-Install missing ependencies with [pip](https://pip.pypa.io/en/stable/). 
+Install missing dependencies with [pip](https://pip.pypa.io/en/stable/). 
 
 ## Usage
 
